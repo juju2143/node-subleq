@@ -1,0 +1,23 @@
+{
+  "name": "subleq",
+  "version": "1.0.0",
+  "description": "A 16-bit subleq VM library",
+  "main": "lib/subleq.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node examples/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juju2143/node-subleq.git"
+  },
+  "author": "juju2143",
+  "license": "LiLiQ-P-1.1",
+  "bugs": {
+    "url": "https://github.com/juju2143/node-subleq/issues"
+  },
+  "homepage": "https://github.com/juju2143/node-subleq#readme"
+}
